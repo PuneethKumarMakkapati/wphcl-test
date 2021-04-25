@@ -10,3 +10,7 @@ Run this as a simple java application. This will automatically deploy the applic
 
 You can launch the application at http://localhost:8080/
 
+On the home page, click on "Go to Posts" link to view the posts.
+
+On the Posts page, click on "Click here" link to view the comments of the post.
+
